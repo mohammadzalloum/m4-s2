@@ -1,0 +1,3 @@
+# Revenue Heatmap Summary
+
+This chart compares total revenue by city and product category in the Amman Digital Market. The clearest pattern is that Amman performs much better than the other cities in almost every category. Electronics is the strongest category overall, followed by Clothing and Home & Garden in Amman. In contrast, cities like Aqaba, Salt, and Zarqa generate lower revenue across most categories. This finding matters because it shows where the business is strongest and where growth is weaker. The company can use this chart to focus on its best-performing market while exploring how to improve sales in lower-revenue cities.
